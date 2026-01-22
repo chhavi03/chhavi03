@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Chhavi Tokhi
 **Data • AI  — building systems that think, learn, and scale**
 
-Email Me 👉 ✉️ **chhavi20tokhi@com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **chhavitokhi7@com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** AI recommending furniture web application
 - 🌱 **I’m currently learning:** GenAI
@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **chhavi20tokhi@com** For Collaboration/Project or Anything
 
   
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhavi-tokhi-40338b3a5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chhavi20tokhi@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhavi-tokhi-40338b3a5/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=chhavitokhi7@gmail.com)
 
 
 

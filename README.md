@@ -1,12 +1,28 @@
-# 💫 Hi 👋, I'm Chhavi Tokhi
-**Data • AI  — building systems that think, learn, and scale**
+## 💫 Hi, I’m Chhavi Tokhi
 
-Email Me 👉 ✉️ **chhavitokhi7@com** For Collaboration/Project or Anything Else. 😊😊
+**AI/ML Engineer | Applied AI & Intelligent Systems**
 
-- 🔭 **I’m currently working on:** AI recommending furniture web application
-- 🌱 **I’m currently learning:** GenAI
-- 😄 **Pronouns:** Chhavi
-- 🔍 **Quick Insight:** I don’t just train models — I train my brain to think like one
+I build practical AI solutions that transform data into scalable, real-world systems, with experience across Machine Learning, Computer Vision, NLP, and Generative AI.
+
+📧 **Email:** chhavitokhi7@gmail.com  
+🔗 **GitHub:** https://github.com/chhavio3  
+
+---
+
+### 🔧 What I’m Working On
+Developing an AI-driven furniture recommendation web application, focusing on user behavior modeling and intelligent ranking.
+
+### 🌱 What I’m Learning
+Generative AI and advanced RAG-based architectures for domain-specific applications.
+
+### 🧠 Core Interests
+- Applied Machine Learning  
+- Computer Vision & NLP  
+- GenAI, RAG pipelines, and ML deployment  
+
+### 💡 Professional Note
+I focus on designing, evaluating, and deploying AI systems—not just training models, but engineering solutions that deliver measurable impact.
+
 
   
 ## 🌐 Socials:

@@ -1,27 +1,24 @@
-## 💫 Hi, I’m Chhavi Tokhi
+## Hi, I’m Chhavi Tokhi
 
-**AI/ML Engineer | Applied AI & Intelligent Systems**
+**AI/ML Engineer | Applied AI, Computer Vision & Generative AI**
 
-I build practical AI solutions that transform data into scalable, real-world systems, with experience across Machine Learning, Computer Vision, NLP, and Generative AI.
-
-📧 **Email:** chhavitokhi7@gmail.com  
-🔗 **GitHub:** https://github.com/chhavio3  
+I build and deploy practical AI solutions that transform data into scalable, real-world systems, with hands-on experience in Machine Learning, Computer Vision, NLP, and Generative AI.
 
 ---
-
-### 🔧 What I’m Working On
-Developing an AI-driven furniture recommendation web application, focusing on user behavior modeling and intelligent ranking.
+📧 Email: chhavitokhi7@gmail.com  
+🔗 GitHub: https://github.com/chhavio3  
+🔗 LinkedIn: https://www.linkedin.com/in/chhavi-tokhi-40338b3a5/
 
 ### 🌱 What I’m Learning
 Generative AI and advanced RAG-based architectures for domain-specific applications.
 
 ### 🧠 Core Interests
-- Applied Machine Learning  
-- Computer Vision & NLP  
-- GenAI, RAG pipelines, and ML deployment  
+• Applied Machine Learning & Model Evaluation  
+• Computer Vision and Natural Language Processing  
+• Generative AI, RAG pipelines, and ML deployment 
 
 ### 💡 Professional Note
-I focus on designing, evaluating, and deploying AI systems—not just training models, but engineering solutions that deliver measurable impact.
+I focus on designing, evaluating, and deploying AI systems—engineering solutions that deliver measurable, real-world impact beyond model training.
 
 
   

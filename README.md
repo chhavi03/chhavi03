@@ -7,7 +7,7 @@ I build and deploy practical AI solutions that transform data into scalable, rea
 ---
 📧 Email: chhavitokhi7@gmail.com  
 🔗 GitHub: https://github.com/chhavio3  
-🔗 LinkedIn: https://www.linkedin.com/in/chhavi-tokhi-40338b3a5/
+🔗 LinkedIn: www.linkedin.com/in/chhavi-tokhi-6b78153a3
 
 ### 🌱 What I’m Learning
 Generative AI and advanced RAG-based architectures for domain-specific applications.
